@@ -1,0 +1,45 @@
+{
+  "name": "fonkford",
+  "version": "0.1.0",
+  "description": "Discord бот для Тусовки Егора",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "node src/index.js",
+    "deploy": "node src/deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fegorka/fonkford"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "_moduleAliases": {
+    "@": "./src"
+  },
+  "author": "t.me/ef_618",
+  "license": "CC-BY-NC-4.0",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "libsodium-wrappers": "^0.7.11",
+    "module-alias": "^2.2.3",
+    "mongoose": "^7.4.3",
+    "winston": "^3.10.0",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "eslint": "^8.47.0",
+    "prettier": "^3.0.2",
+    "standard-version": "^9.5.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}

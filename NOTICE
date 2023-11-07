@@ -1,0 +1,35 @@
+fonkford
+Copyright (c) 2023 Fokin Egor (CC BY-NC-ND 4.0)
+https://github.com/fegorka/fonkford
+
+discordjs
+Copyright (c) 2021 Noel Buechler (Apache license 2.0)
+Copyright (c) 2015 Amish Shah (Apache license 2.0)
+https://github.com/discordjs/discord.js
+
+dotenv
+Copyright (c) 2015 Scott Motte (BSD-2-Clause license)
+https://github.com/motdotla/dotenv
+
+libsodium
+Copyright (c) 2015 Ahmad Ben Mrad <batikhsouri at gmail dot org>
+Copyright (c) 2015 Frank Denis <j at pureftpd dot org>
+Copyright (c) 2015 Ryan Lester <ryan at cyph dot com>
+https://github.com/jedisct1/libsodium.js
+
+module-alias
+Copyright (c) 2018 Nick Gavrilov (MIT)
+https://github.com/ilearnio/module-alias
+
+mongoose
+Copyright (c) 2010-2013 LearnBoost dev@learnboost.com (MIT)
+Copyright (c) 2013-2021 Automattic (MIT)
+https://github.com/Automattic/mongoose
+
+winston
+Copyright (c) 2010 Charlie Robbins (MIT)
+https://github.com/winstonjs/winston
+
+ytdl
+Copyright (C) 2012-present by fent (MIT)
+https://github.com/fent/node-ytdl-core
